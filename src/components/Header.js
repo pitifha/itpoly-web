@@ -2,11 +2,12 @@ import React from "react";
 
 const Header = () => {
   return (
-    <header className="bg-yellow-500 text-white py-4">
-      <div className="container mx-auto text-center">
-        <h2 className="text-3xl font-semibold">Welcome to Lanna Polytechnic College</h2>
-      </div>
+    <header className="bg-blue-600 text-white p-6">
+      <h1 className="text-3xl font-bold text-center">
+        วิทยาลัยเทคโนโลยีโปลิเทคนิคลานนาเชียงใหม่
+      </h1>
     </header>
+
   );
 };
 

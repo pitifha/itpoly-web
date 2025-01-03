@@ -13,45 +13,50 @@ const Courses = () => {
           {/* First PDF Embed */}
           <div className="pdf-container">
             <h3 className="text-xl font-semibold">ประกาศนียบัตรวิชาชีพ</h3>
-            <embed
-              src="https://drive.google.com/file/d/1KlESxHfQdaNQ5trzY9rSJhpiDCU5GDe8/preview" // Replace with your actual PDF path
-              type="application/pdf"
+            <iframe
+              src="https://drive.google.com/file/d/1KlESxHfQdaNQ5trzY9rSJhpiDCU5GDe8/preview"
               width="100%"
               height="600px"
-            />
+              style={{ border: "none" }}
+              title="PDF Preview"
+            ></iframe>
           </div>
+
 
           {/* Second PDF Embed */}
           <div className="pdf-container">
             <h3 className="text-xl font-semibold">ประกาศนียบัตรวิชาชีพ</h3>
-            <embed
-              src="https://drive.google.com/file/d/1vx5diaTenzBsZuYRDX19YjesoCB6XA3m/preview" // Replace with your actual PDF path
-              type="application/pdf"
+            <iframe
+              src="https://drive.google.com/file/d/1vx5diaTenzBsZuYRDX19YjesoCB6XA3m/preview"
               width="100%"
               height="600px"
-            />
+              style={{ border: "none" }}
+              title="PDF Preview"
+            ></iframe>
           </div>
 
           {/* Third PDF Embed */}
           <div className="pdf-container">
-            <h3 className="text-xl font-semibold">ประกาศนียบัตรวิชาชีพชั้นสูง</h3>
-            <embed
-              src="https://drive.google.com/file/d/14qknn42lagFi_WuJoiOl_ibPwu7bUvte/preview" // Replace with your actual PDF path
-              type="application/pdf"
+            <h3 className="text-xl font-semibold">ประกาศนียบัตรวิชาชีพ</h3>
+            <iframe
+              src="https://drive.google.com/file/d/14qknn42lagFi_WuJoiOl_ibPwu7bUvte/preview"
               width="100%"
               height="600px"
-            />
+              style={{ border: "none" }}
+              title="PDF Preview"
+            ></iframe>
           </div>
 
           {/* Fourth PDF Embed */}
           <div className="pdf-container">
-            <h3 className="text-xl font-semibold">ประกาศนียบัตรวิชาชีพชั้นสูง</h3>
-            <embed
-              src="https://drive.google.com/file/d/1tnEVbTXtZNwtHmFuWMd7Xm5hFlMDI0Be/preview" // Replace with your actual PDF path
-              type="application/pdf"
+            <h3 className="text-xl font-semibold">ประกาศนียบัตรวิชาชีพ</h3>
+            <iframe
+              src="https://drive.google.com/file/d/1tnEVbTXtZNwtHmFuWMd7Xm5hFlMDI0Be/preview"
               width="100%"
               height="600px"
-            />
+              style={{ border: "none" }}
+              title="PDF Preview"
+            ></iframe>
           </div>
         </div>
       </div>
