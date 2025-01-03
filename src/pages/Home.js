@@ -51,7 +51,7 @@ const Home = () => {
             {/* Image Cards for Activities */}
             <div className="bg-white shadow-lg rounded-lg overflow-hidden transition-transform transform hover:scale-105 hover:shadow-2xl">
               <img
-                src="https://via.placeholder.com/400x250"
+                src="https://konlanna.com/media/img/4k9ajACv5frpQGm7vUTnbEnSCYjU7ssq.jpg"
                 alt="Activity 1"
                 className="w-full h-48 object-cover"
               />
@@ -68,7 +68,7 @@ const Home = () => {
 
             <div className="bg-white shadow-lg rounded-lg overflow-hidden transition-transform transform hover:scale-105 hover:shadow-2xl">
               <img
-                src="https://via.placeholder.com/400x250"
+                src="https://scontent.fcnx3-1.fna.fbcdn.net/v/t39.30808-6/469428045_893698729579549_2378760859031205994_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFJF9Fe_lD_EV93E5yiZAobrypYbZFnR0-vKlhtkWdHT-tEntV0w2XqRoOknAD2T4fkZiwWijFLUzeTbGSfhpFn&_nc_ohc=kGIlfdBXYD4Q7kNvgEgXgLn&_nc_oc=AdhLnYnSACCLUeqvp9kvoheJie3SK7xeLtbKjF-THbE9g-3ZKdKlnkdViR3hETgBWGA&_nc_zt=23&_nc_ht=scontent.fcnx3-1.fna&_nc_gid=AmMgRBe_HzS4gP1BA2wDg6I&oh=00_AYCai1CfusRQjFAJGjJ8UYHjCpXSs17wELrFIok4jidBrg&oe=677D2EF9"
                 alt="Activity 2"
                 className="w-full h-48 object-cover"
               />
@@ -85,7 +85,7 @@ const Home = () => {
 
             <div className="bg-white shadow-lg rounded-lg overflow-hidden transition-transform transform hover:scale-105 hover:shadow-2xl">
               <img
-                src="https://via.placeholder.com/400x250"
+                src="https://www.siameagle.com/wp-content/uploads/2024/09/1038470_0.jpg"
                 alt="Activity 3"
                 className="w-full h-48 object-cover"
               />
